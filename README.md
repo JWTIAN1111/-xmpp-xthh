@@ -1,2 +1,2 @@
-# -xmpp-xthh
+# xmpp-xthh
 e
